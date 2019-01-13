@@ -1,6 +1,6 @@
 const fs = require("fs");
 const URL = require("url").URL;
-
+// comment
 const messagesFileUrl = new URL(`file:///${__dirname}/messages/messages.json`);
 
 try {
