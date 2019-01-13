@@ -1,0 +1,12 @@
+{
+  "name": "main_repo",
+  "version": "1.0.0",
+  "description": "A useless project for demontrating git subtrees, prints messages contained in a  subtree repo.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
